@@ -10,7 +10,7 @@ variables = {
     "module": None
 }
 
-phonemd {
+phonemd = {
     "supported": [
         "+90"
     ]
